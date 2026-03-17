@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I'm Stevanus Jk from Indonesia.<br><br>- 🔭 I’m working as a freelance front-end developer, data entry, graphic design, editing video<br>- ⚡ In my free time, I play bass guitar 🎸 and keep growing</p>
+<p align="left">I'm Stevanus Jk from Indonesia.<br><br>- 🔭 I’m working as a freelance data entry, graphic design, editing video, and code<br>- ⚡ In my free time, I play bass guitar 🎸 and keep growing</p>
 
 ###
 
